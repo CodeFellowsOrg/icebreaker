@@ -6,6 +6,7 @@ var randomQuestion = function() {
   "What was the best thing that happened to you this weekend?",
   "What is your favorite animal? List three adjectives to explain your choice.",
   "What is your favorite color? List three adjectives to explain your choice.",
+  "What is your favorite episode of Doctor Who and why? Follow up, why is David Tennant your favorite Doctor(don't worry, he is).",
   "It's a very hot and muggy day. You desperately want something very cool and refreshing to quench your thirst and revitalize your body. What would you drink -- either make your own or store-bought.",
   "If you discovered that the person you're head-over-heels interested in loves a good homemade & handmade dessert, what will you concoct when you have this person over?",
   "What do you consider to the most valuable thing you own, either now or when you were a child/teenager?",
