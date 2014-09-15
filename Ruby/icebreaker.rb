@@ -1,6 +1,6 @@
-puts "What's your name?"
+puts "What's your name, and how can we remember it?"
 puts "Where are you from?"
-puts "Hobbies?"
+puts "How do you spend your leisure time?"
 puts "What do you want to get out of codefellows?"
 questions = [ "What is your favorite food?",
   "What is your favorite animal? List three adjectives to explain your choice",
