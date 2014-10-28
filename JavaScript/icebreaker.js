@@ -57,7 +57,7 @@ var randomQuestion = function() {
   "If you could hear what someone was thinking for a day, who would you choose?",
   "If you had to be trapped in a TV show for a month, which one would it be?",
   "Why did the chicken cross the road?",
-  "If given the chance, who would like to be for a day?",
+  "If given the chance, who would you like to be for a day?",
   "If you could be a part of one current startup, which would it be?",
   "If you could meet one historical figure, who would it be and why?"]
   return questions[Math.floor(Math.random() * questions.length)]
